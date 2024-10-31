@@ -1,0 +1,6 @@
+#registerform p:nth-child(-n+2){
+    display: none;
+}
+#reg_passmail{
+	display: none;
+}
